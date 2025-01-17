@@ -1,0 +1,240 @@
+Iteration 1:
+Average Put Throughput: 3231.43 operations per second
+Average Get Throughput (Binary Search): 304.85 operations per second
+Average Get Throughput (B-Tree): 641.155 operations per second
+Average Scan Throughput: 963.137 operations per second
+-----------------------------------------
+Iteration 2:
+Average Put Throughput: 2150.85 operations per second
+Average Get Throughput (Binary Search): 254.334 operations per second
+Average Get Throughput (B-Tree): 321.151 operations per second
+Average Scan Throughput: 489.281 operations per second
+-----------------------------------------
+Iteration 3:
+Average Put Throughput: 1670.9 operations per second
+Average Get Throughput (Binary Search): 1089.27 operations per second
+Average Get Throughput (B-Tree): 80.2235 operations per second
+Average Scan Throughput: 1335.16 operations per second
+-----------------------------------------
+Iteration 4:
+Average Put Throughput: 2015.68 operations per second
+Average Get Throughput (Binary Search): 241.379 operations per second
+Average Get Throughput (B-Tree): 504.949 operations per second
+Average Scan Throughput: 164.156 operations per second
+-----------------------------------------
+Iteration 5:
+Average Put Throughput: 878.46 operations per second
+Average Get Throughput (Binary Search): 3694.9 operations per second
+Average Get Throughput (B-Tree): 6620.96 operations per second
+Average Scan Throughput: 10018.1 operations per second
+-----------------------------------------
+Iteration 6:
+Average Put Throughput: 3221.24 operations per second
+Average Get Throughput (Binary Search): 362.948 operations per second
+Average Get Throughput (B-Tree): 853.008 operations per second
+Average Scan Throughput: 1352.75 operations per second
+-----------------------------------------
+Iteration 7:
+Average Put Throughput: 1980.22 operations per second
+Average Get Throughput (Binary Search): 212.138 operations per second
+Average Get Throughput (B-Tree): 341.852 operations per second
+Average Scan Throughput: 497.092 operations per second
+-----------------------------------------
+Iteration 8:
+Average Put Throughput: 1349.92 operations per second
+Average Get Throughput (Binary Search): 783.981 operations per second
+Average Get Throughput (B-Tree): 63.6473 operations per second
+Average Scan Throughput: 1161.66 operations per second
+-----------------------------------------
+Iteration 9:
+Average Put Throughput: 1521.52 operations per second
+Average Get Throughput (Binary Search): 150.908 operations per second
+Average Get Throughput (B-Tree): 54.0701 operations per second
+Average Scan Throughput: 662.23 operations per second
+-----------------------------------------
+Iteration 10:
+Average Put Throughput: 282.267 operations per second
+Average Get Throughput (Binary Search): 1888.77 operations per second
+Average Get Throughput (B-Tree): 3334.39 operations per second
+Average Scan Throughput: 5067.85 operations per second
+-----------------------------------------
+Iteration 11:
+Average Put Throughput: 2906.95 operations per second
+Average Get Throughput (Binary Search): 380.428 operations per second
+Average Get Throughput (B-Tree): 348.954 operations per second
+Average Scan Throughput: 492.498 operations per second
+-----------------------------------------
+Iteration 12:
+Average Put Throughput: 1848.19 operations per second
+Average Get Throughput (Binary Search): 119.285 operations per second
+Average Get Throughput (B-Tree): 45.6356 operations per second
+Average Scan Throughput: 364.248 operations per second
+-----------------------------------------
+Iteration 13:
+Average Put Throughput: 755.858 operations per second
+Average Get Throughput (Binary Search): 171.384 operations per second
+Average Get Throughput (B-Tree): 166.402 operations per second
+Average Scan Throughput: 761.196 operations per second
+-----------------------------------------
+Iteration 14:
+Average Put Throughput: 1281.89 operations per second
+Average Get Throughput (Binary Search): 598.523 operations per second
+Average Get Throughput (B-Tree): 172.244 operations per second
+Average Scan Throughput: 934.238 operations per second
+-----------------------------------------
+Iteration 15:
+Average Put Throughput: 765.443 operations per second
+Average Get Throughput (Binary Search): 860.958 operations per second
+Average Get Throughput (B-Tree): 1213.86 operations per second
+Average Scan Throughput: 1479.78 operations per second
+-----------------------------------------
+Iteration 16:
+Average Put Throughput: 2932.82 operations per second
+Average Get Throughput (Binary Search): 409.082 operations per second
+Average Get Throughput (B-Tree): 799.116 operations per second
+Average Scan Throughput: 1232.81 operations per second
+-----------------------------------------
+Iteration 17:
+Average Put Throughput: 423.145 operations per second
+Average Get Throughput (Binary Search): 267.778 operations per second
+Average Get Throughput (B-Tree): 38.0994 operations per second
+Average Scan Throughput: 737.862 operations per second
+-----------------------------------------
+Iteration 18:
+Average Put Throughput: 1263.14 operations per second
+Average Get Throughput (Binary Search): 268.931 operations per second
+Average Get Throughput (B-Tree): 148.885 operations per second
+Average Scan Throughput: 579.946 operations per second
+-----------------------------------------
+Iteration 19:
+Average Put Throughput: 1694.86 operations per second
+Average Get Throughput (Binary Search): 169.836 operations per second
+Average Get Throughput (B-Tree): 94.7522 operations per second
+Average Scan Throughput: 450.362 operations per second
+-----------------------------------------
+Iteration 20:
+Average Put Throughput: 142.284 operations per second
+Average Get Throughput (Binary Search): 92.0749 operations per second
+Average Get Throughput (B-Tree): 2496.54 operations per second
+Average Scan Throughput: 6196.64 operations per second
+-----------------------------------------
+Iteration 21:
+Average Put Throughput: 2699.62 operations per second
+Average Get Throughput (Binary Search): 213.274 operations per second
+Average Get Throughput (B-Tree): 713.32 operations per second
+Average Scan Throughput: 1215.33 operations per second
+-----------------------------------------
+Iteration 22:
+Average Put Throughput: 1767.09 operations per second
+Average Get Throughput (Binary Search): 190.777 operations per second
+Average Get Throughput (B-Tree): 507.627 operations per second
+Average Scan Throughput: 1118.05 operations per second
+-----------------------------------------
+Iteration 23:
+Average Put Throughput: 1346.39 operations per second
+Average Get Throughput (Binary Search): 239.208 operations per second
+Average Get Throughput (B-Tree): 142.227 operations per second
+Average Scan Throughput: 1236.41 operations per second
+-----------------------------------------
+Iteration 24:
+Average Put Throughput: 1834.43 operations per second
+Average Get Throughput (Binary Search): 84.7222 operations per second
+Average Get Throughput (B-Tree): 443.807 operations per second
+Average Scan Throughput: 774.393 operations per second
+-----------------------------------------
+Iteration 25:
+Average Put Throughput: 757 operations per second
+Average Get Throughput (Binary Search): 150.116 operations per second
+Average Get Throughput (B-Tree): 2082.39 operations per second
+Average Scan Throughput: 3578.01 operations per second
+-----------------------------------------
+Iteration 26:
+Average Put Throughput: 2863.81 operations per second
+Average Get Throughput (Binary Search): 205.725 operations per second
+Average Get Throughput (B-Tree): 738.387 operations per second
+Average Scan Throughput: 1542.54 operations per second
+-----------------------------------------
+Iteration 27:
+Average Put Throughput: 1831.48 operations per second
+Average Get Throughput (Binary Search): 181.068 operations per second
+Average Get Throughput (B-Tree): 133.307 operations per second
+Average Scan Throughput: 992.381 operations per second
+-----------------------------------------
+Iteration 28:
+Average Put Throughput: 1340.36 operations per second
+Average Get Throughput (Binary Search): 116.705 operations per second
+Average Get Throughput (B-Tree): 48.9029 operations per second
+Average Scan Throughput: 753.321 operations per second
+-----------------------------------------
+Iteration 29:
+Average Put Throughput: 1834.55 operations per second
+Average Get Throughput (Binary Search): 187.85 operations per second
+Average Get Throughput (B-Tree): 151.974 operations per second
+Average Scan Throughput: 966.007 operations per second
+-----------------------------------------
+Iteration 30:
+Average Put Throughput: 449.704 operations per second
+Average Get Throughput (Binary Search): 616.015 operations per second
+Average Get Throughput (B-Tree): 2891.87 operations per second
+Average Scan Throughput: 4538.94 operations per second
+-----------------------------------------
+Iteration 31:
+Average Put Throughput: 2875.1 operations per second
+Average Get Throughput (Binary Search): 618.946 operations per second
+Average Get Throughput (B-Tree): 867.725 operations per second
+Average Scan Throughput: 1514.39 operations per second
+-----------------------------------------
+Iteration 32:
+Average Put Throughput: 1829.62 operations per second
+Average Get Throughput (Binary Search): 82.5747 operations per second
+Average Get Throughput (B-Tree): 407.246 operations per second
+Average Scan Throughput: 916.459 operations per second
+-----------------------------------------
+Iteration 33:
+Average Put Throughput: 1347.16 operations per second
+Average Get Throughput (Binary Search): 507.056 operations per second
+Average Get Throughput (B-Tree): 213.432 operations per second
+Average Scan Throughput: 1477.41 operations per second
+-----------------------------------------
+Iteration 34:
+Average Put Throughput: 1825.25 operations per second
+Average Get Throughput (Binary Search): 428.404 operations per second
+Average Get Throughput (B-Tree): 99.1146 operations per second
+Average Scan Throughput: 1287.67 operations per second
+-----------------------------------------
+Iteration 35:
+Average Put Throughput: 757.942 operations per second
+Average Get Throughput (Binary Search): 160.967 operations per second
+Average Get Throughput (B-Tree): 1505.88 operations per second
+Average Scan Throughput: 2391.45 operations per second
+-----------------------------------------
+Iteration 36:
+Average Put Throughput: 2850.54 operations per second
+Average Get Throughput (Binary Search): 192.328 operations per second
+Average Get Throughput (B-Tree): 619.642 operations per second
+Average Scan Throughput: 929.778 operations per second
+-----------------------------------------
+Iteration 37:
+Average Put Throughput: 1812.12 operations per second
+Average Get Throughput (Binary Search): 109.806 operations per second
+Average Get Throughput (B-Tree): 355.233 operations per second
+Average Scan Throughput: 414.9 operations per second
+-----------------------------------------
+Iteration 38:
+Average Put Throughput: 1295.04 operations per second
+Average Get Throughput (Binary Search): 217.244 operations per second
+Average Get Throughput (B-Tree): 31.7501 operations per second
+Average Scan Throughput: 831.542 operations per second
+-----------------------------------------
+Iteration 39:
+Average Put Throughput: 1633.29 operations per second
+Average Get Throughput (Binary Search): 170.494 operations per second
+Average Get Throughput (B-Tree): 129.56 operations per second
+Average Scan Throughput: 622.647 operations per second
+-----------------------------------------
+Iteration 40:
+Average Put Throughput: 139.022 operations per second
+Average Get Throughput (Binary Search): 68.134 operations per second
+Average Get Throughput (B-Tree): 1152.57 operations per second
+Average Scan Throughput: 4341.73 operations per second
+-----------------------------------------
